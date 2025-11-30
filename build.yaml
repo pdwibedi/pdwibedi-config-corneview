@@ -23,5 +23,8 @@ include:
     shield: corne_left nice_view_adapter nice_view
   - board: nice_nano_v2
     shield: corne_right nice_view_adapter nice_view
+<<<<<<< HEAD
 include:
   - board: bt75_v1
+=======
+>>>>>>> 5e1e352ff2749baa24c18f6aade4103cd98aa006
